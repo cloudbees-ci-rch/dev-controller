@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-ci-rch
+- admin-user: rochecr-admin
+- manager-user: rochecr
